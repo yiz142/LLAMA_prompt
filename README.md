@@ -12,6 +12,14 @@ Ensure you have all dependencies, including the OpenAI library and any required 
 # Datasets
 This project uses datasets from the XClass repository. Each dataset has multiple classes, and we will randomly sample data for testing.
 
+# Running the code 
+To run the project, use the run.py script. Make sure to specify your chosen dataset and prompting method.
+
 # API Key Setup
+API Key Setup
+You need an API key from SambaNova to make API requests. Follow these steps to get your API key:
+
+Visit SambaNova's website and sign up or log in.
+Once logged in, generate an API key from your account dashboard.
 Ensure your API key for SambaNova is set as an environment variable:
 export SAMBANOVA_API_KEY="your-api-key-here"
