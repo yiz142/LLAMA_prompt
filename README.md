@@ -10,7 +10,9 @@ pip install -r requirements.txt
 Ensure you have all dependencies, including the OpenAI library and any required packages for data handling and model evaluation.
 
 # Datasets
-This project uses datasets from the XClass repository. Each dataset has multiple classes, and we will randomly sample data for testing.
+This project uses datasets from the XClass repository:
+https://github.com/ZihanWangKi/XClass/tree/main/data/datasets.
+Each dataset has multiple classes, and we will randomly sample data for testing.
 
 # Running the code 
 To run the project, use the run.py script. Make sure to specify your chosen dataset and prompting method.
